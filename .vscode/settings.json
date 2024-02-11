@@ -1,5 +1,6 @@
 {
     "Lua.diagnostics.globals": [
-        "PROFESSIONS_ARCHAEOLOGY"
+        "PROFESSIONS_ARCHAEOLOGY",
+        "TUTORIAL_TITLE31"
     ]
 }
