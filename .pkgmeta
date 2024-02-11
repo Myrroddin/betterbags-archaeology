@@ -1,0 +1,5 @@
+package-as: BetterBags_Archaeology
+wowi-archive-previous: no
+
+required-dependencies
+   - better-bags
