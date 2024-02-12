@@ -12,9 +12,6 @@ local L = BetterBags:GetModule("Localization")
 local _, addon = ...
 local database = addon.db
 
--- start fresh, delete all items in the category; does not delete the category itself
-categories:WipeCategory(L:G(PROFESSIONS_ARCHAEOLOGY))
-
 -- create a category and populate with itemIDs
 for index in pairs(database) do
     categories:AddItemToCategory(index, L:G(PROFESSIONS_ARCHAEOLOGY))

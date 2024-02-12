@@ -10,9 +10,9 @@ The full list can be [viewed online](https://github.com/Myrroddin/betterbags-arc
 
 ## Downloads
 
-- [Curseforge](https://legacy.curseforge.com/wow/addons/betterbags-hearthstones)
-- [Wago AddOns](https://addons.wago.io/addons/betterbags-hearthstones)
-- [Wowinterface](https://www.wowinterface.com/downloads/info26689-BetterBags-Hearthstones.html)
+- [Curseforge](https://legacy.curseforge.com/wow/addons/betterbags-archaeology)
+- [Wago AddOns](https://addons.wago.io/addons/betterbags-archaeology)
+- [Wowinterface](https://www.wowinterface.com/downloads/info26692-BetterBags-Archaeology.html)
 
 ## Bugs, Issues, and Improvements
 Please use [GitHub's issue tracker](https://github.com/Myrroddin/betterbags-archaeology/issues) for the project. Thank you!

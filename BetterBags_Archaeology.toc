@@ -19,9 +19,9 @@
 ## X-License: Copyright (c) 2024 Paul Vandersypen. All Rights Reserved
 ## X-Category: Bags & Inventory
 ## Dependencies: BetterBags
-## X-Curse-Project-ID:
-## X-WoWI-ID:
-## X-Wago-ID:
+## X-Curse-Project-ID: 973935
+## X-WoWI-ID: 26692
+## X-Wago-ID: j6jzag6R
 
 Database.lua
 Core.lua
