@@ -10,7 +10,7 @@ The full list can be [viewed online](https://github.com/Myrroddin/betterbags-arc
 
 ## Downloads
 
-- [Curseforge](https://legacy.curseforge.com/wow/addons/betterbags-archaeology)
+- [Curseforge](https://www.curseforge.com/wow/addons/betterbags-archaeology)
 - [Wago AddOns](https://addons.wago.io/addons/betterbags-archaeology)
 - [Wowinterface](https://www.wowinterface.com/downloads/info26692-BetterBags-Archaeology.html)
 
