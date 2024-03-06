@@ -12,10 +12,11 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. WoW version (Classic Era, hardcore, Season of..., Wrath, retail)
-2. BetterBags version
-3. BetterBags_Archaeology version
-4. See error
+1. WoW version (Classic Era, hardcore, Season of..., Wrath, retail):
+2. BetterBags version:
+3. BetterBags_Archaeology version:
+4. Which game locale are you using:
+5. See error code
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
