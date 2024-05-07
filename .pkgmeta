@@ -1,5 +1,6 @@
 package-as: BetterBags_Archaeology
 wowi-archive-previous: no
+enable-toc-creation: yes
 
 required-dependencies
    - better-bags

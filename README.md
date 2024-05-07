@@ -3,6 +3,7 @@ Plugin module for the World of Warcraft AddOn [BetterBags](https://www.curseforg
 
 ## World of Warcraft Supported Versions
 
+- Cataclysm Classic
 - Mainline or retail. Currently, that is Dragonflight
 
 ## Supported Items
