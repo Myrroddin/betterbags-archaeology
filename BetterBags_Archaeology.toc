@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 100207
 ## Interface-Cata: 40400
 ## Title: BetterBags - Archaeology
 ## Notes: Adds Archaeology items to BetterBags virtual groups
