@@ -5,11 +5,14 @@ assert(BetterBags, "BetterBags_Archaeology requires BetterBags")
 ---@class Categories: AceModule
 local categories = BetterBags:GetModule("Categories")
 
----@type string, AddonNS
+---@class Localization: AceModule
+local L = BetterBags:GetModule("Localization")
+
+---@type string, table
 local _, addon = ...
 local database = addon.db
 
 -- create a category and populate with itemIDs
 for index in pairs(database) do
-    categories:AddItemToCategory(index, PROFESSIONS_ARCHAEOLOGY)
+    categories:AddItemToCategory(index, L:G(PROFESSIONS_ARCHAEOLOGY))
 end

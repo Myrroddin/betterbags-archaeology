@@ -1,5 +1,4 @@
-## Interface: 100207
-## Interface-Cata: 40400
+## Interface: 40400, 100207
 ## Title: BetterBags - Archaeology
 ## Notes: Adds Archaeology items to BetterBags virtual groups
 ## Notes-ruRU: @localization(locale="ruRU")@
