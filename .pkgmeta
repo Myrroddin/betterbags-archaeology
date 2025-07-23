@@ -2,4 +2,7 @@ package-as: BetterBags_Archaeology
 wowi-archive-previous: no
 
 required-dependencies
-   - better-bags
+  - better-bags
+
+  ignore:
+    - README.md
