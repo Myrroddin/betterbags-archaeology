@@ -1,4 +1,4 @@
-## Interface: 50500, 110107
+## Interface: 50500, 110200
 ## Title: BetterBags - Archaeology
 ## Notes: Adds Archaeology items to BetterBags virtual groups
 ## Notes-ruRU: @localization(locale="ruRU")@
