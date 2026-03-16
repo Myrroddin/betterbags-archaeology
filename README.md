@@ -4,7 +4,7 @@ Plugin module for the World of Warcraft AddOn [BetterBags](https://www.curseforg
 ## World of Warcraft Supported Versions
 
 - Mists of Pandaria Classic
-- Mainline or retail. Currently, that is The War Within
+- Mainline or retail. Currently, that is Midnight.
 
 ## Supported Items
 The full list can be [viewed online](https://github.com/Myrroddin/betterbags-archaeology/blob/main/Database.lua) or with any text editor. I suggest [Notepad++](https://notepad-plus-plus.org/) which will maintain the readability of Database.lua when opening the file directly from the AddOn folder.

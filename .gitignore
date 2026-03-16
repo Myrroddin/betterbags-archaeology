@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Lua and development caches
+.luarc.json
+.luacheckcache
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.temp
+*.orig
+*.rej
+*~
+
+# WoW addon packager and release artifacts
+.release/
+dist/
+pkg/
+release/
+*.zip
+
+# Local test or copied addon folders
+_retail_/
+_classic_/
+_classic_era_/
+_ptr_/
+_beta_/
