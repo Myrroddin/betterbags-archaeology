@@ -1,6 +1,6 @@
 --[[
 BetterBags_Archaeology - Adds Archaeology items to BetterBags virtual groups
-Copyright © 2024-2025 Paul Vandersypen, All Rights Reserved
+Copyright © 2024-2026 Paul Vandersypen, All Rights Reserved
 ]]--
 
 local _, addon = ...
