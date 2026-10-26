@@ -6,7 +6,7 @@ Copyright © 2024-2026 Paul Vandersypen, All Rights Reserved
 local _, addon = ...
 
 -- need to check game version
-local isMainline = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
+local isStandard = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
 
 local database = {}
 
@@ -45,7 +45,7 @@ database[85477]		= true	-- Pristine Mogu Coin
 database[85557]		= true	-- Pristine Pandaren Tea Set
 database[85558]		= true	-- Pristine Game Board
 database[87399]		= true	-- Restored Artifact
-database[87533]		= true	-- Crate of Dwarf Archaeology Fragments
+database[87533]		= true	-- Crate of Dwarven Archaeology Fragments
 database[87534]		= true	-- Crate of Draenei Archaeology Fragments
 database[87535]		= true	-- Crate of Fossil Archaeology Fragments
 database[87536]		= true	-- Crate of Night Elf Archaeology Fragments
@@ -90,9 +90,10 @@ database[95387]		= true	-- Pristine Remains of a Paragon
 database[95388]		= true	-- Pristine Mantid Lamp
 database[95389]		= true	-- Pristine Pollen Collector
 database[95390]		= true	-- Pristine Kypari Sap Container
+database[95509]		= true	-- Mantid Artifact Sonic Locator
 database[104198]	= true	-- Mantid Artifact Hunter's Kit
 
-if isMainline then
+if isStandard then
 	database[108439]	= true	-- Draenor Clan Orator Cane (key stone)
 	database[109584]	= true	-- Ogre Missive (key stone)
 	database[109585]	= true	-- Arakkoa Cipher (key stone)
