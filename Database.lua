@@ -185,8 +185,9 @@ if isStandard then
 	database[117386]	= true	-- Crate of Pandaren Archaeology Fragments
 	database[117387]	= true	-- Crate of Mogu Archaeology Fragments
 	database[117388]	= true	-- Crate of Mantid Archaeology Fragments
-	database[117389]	= true	-- Draenor Achaeologist's Lodestone
+	database[117389]	= true	-- Draenor Archaeologist's Lodestone
 	database[117390]	= true	-- Draenor Archaeologist's Map
+	database[118727]	= true	-- Frostfire Treasure Map
 	database[118728]	= true	-- Shadowmoon Valley Treasure Map
 	database[118729]	= true	-- Gorgrond Treasure Map
 	database[118730]	= true	-- Talador Treasure Map
@@ -226,15 +227,35 @@ if isStandard then
 	database[130933]	= true	-- Pristine Malformed Abyssal
 	database[130934]	= true	-- Pristine Orb of Inner Chaos
 	database[130935]	= true	-- Pristine Houndstooth Hauberk
+	database[134082]	= true	-- War of the Ancients Fragment
+	database[134083]	= true	-- Chipped Titan Disc Fragment
+	database[134084]	= true	-- Part of the Infernal Device
+	database[134085]	= true	-- Chamber Key Fragment
 	database[134086]	= true	-- Surveying Equipment
+	database[134087]	= true	-- Page from The Purple Hills of Eredath
+	database[134088]	= true	-- Chapter from The Purple Hills of Eredath
+	database[134089]	= true	-- The Purple Hills of Eredath
+	database[134090]	= true	-- Final Chapter of The Purple Hills of Eredath
+	database[134091]	= true	-- Crumbling Titan Disc Piece
+	database[134093]	= true	-- Ancient Highmountain Artifact
+	database[134094]	= true	-- Ancient Highmountain Necklace
+	database[134095]	= true	-- Bone Fragment of Eche'ro
+	database[134108]	= true	-- Ancient Highborne Artifact
+	database[134114]	= true	-- Jewel of Aellis
+	database[134115]	= true	-- Freed Artifact Fragment
+	database[134116]	= true	-- Tattered Highborne Scroll
+	database[134117]	= true	-- Azsunian Key Mold Piece
 	database[135488]	= true	-- Goblin Explosives
+	database[136362]	= true	-- Ancient War Remnants
 	database[136372]	= true	-- Archaeologist's Whistle
-	database[136632]	= true	-- Ancient War Remnants
 	database[136383]	= true	-- Ravencrest Cache
+	database[136397]	= true	-- Dusty Disc Fragment
+	database[136398]	= true	-- Ancient Vial
 	database[136419]	= true	-- Excavator's Notebook (Legion)
 	database[142113]	= true	-- Crate of Arakkoa Archaeology Fragments
 	database[142114]	= true	-- Crate of Draenor Clans Archaeology Fragments
 	database[142115]	= true	-- Crate of Ogre Archaeology Fragments
+	database[146328]	= true	-- Petrified Wyrmtongue
 	database[154913]	= true	-- Akun'Jar Vase
 	database[154914]	= true	-- Urn of Passage
 	database[154915]	= true	-- Rezan Idol
@@ -264,8 +285,8 @@ if isStandard then
 	database[164625]	= true	-- Crate of Demon Archaeology Fragments
 	database[164626]	= true	-- Crate of Highborne Archaeology Fragments
 	database[164627]	= true	-- Crate of Highmountain Tauren Archaeology Fragments
-	database[183384]	= true	-- Crate of Drust Archaeology Fragments
-	database[183385]	= true	-- Crate of Zandalari Archaeology Fragments
+	database[183834]	= true	-- Crate of Drust Archaeology Fragments
+	database[183835]	= true	-- Crate of Zandalari Archaeology Fragments
 end
 
 -- return data to main file
